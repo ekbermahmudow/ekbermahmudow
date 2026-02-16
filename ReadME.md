@@ -48,8 +48,8 @@ I have been working in the Cybersecurity field as a **Senior DevOps / Back-End S
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ekimmw&show_icons=true&theme=radical" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekimmw&layout=compact&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ekbermahmudow&show_icons=true&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekbermahmudow&layout=compact&theme=radical" height="180"/>
 
 ---
 
