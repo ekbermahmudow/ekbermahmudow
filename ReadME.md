@@ -1,16 +1,14 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00d4ff,50:0099ff,75:00d4ff,100:0d1117&height=250&section=header&text=Akbar%20Mahmudow&fontSize=55&fontColor=ffffff&fontAlignY=30&desc=%E2%9A%A1%20Spc%20Cyber%20Security%20%7C%20%20%7C%20Back-End%20Specialist%20%E2%9A%A1&descSize=20&descColor=00d4ff&descAlignY=52&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00d4ff,50:0099ff,75:00d4ff,100:0d1117&height=250&section=header&text=Akbar%20Mahmudow&fontSize=55&fontColor=ffffff&fontAlignY=30&desc=%E2%9A%A1%20Cyber%20Security%20Specialist%20%7C%20CEH%20%E2%9A%A1&descSize=22&descColor=00d4ff&descAlignY=52&animation=twinkling"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%94%90+Cybersecurity+Specialist+%7C+Ethical+Hacker;%F0%9F%92%BB+%7C+DevOps+Engineer;%F0%9F%8F%86+CTF+Player+%7C+Bug+Bounty+Hunter;%F0%9F%9B%A1%EF%B8%8F+Exploit+Dev+%7C+Penetration+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%94%90+Cyber+Security+Specialist+%7C+CEH;%F0%9F%8F%86+CTF+Player+%7C+Bug+Bounty+Hunter;%F0%9F%92%A3+Ethical+Hacker+%7C+Pentester" alt="Typing SVG" />
 </a>
 
 <br/>
-
-
 
 <!-- Profile Views & Followers & Stars -->
 <img src="https://komarev.com/ghpvc/?username=ekbermahmudow&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
@@ -38,20 +36,18 @@
 
 ---
 
-<!-- About Me Section -->
+<!-- About Me -->
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/> About Me
 
-I have been working in the **Cybersecurity** field as a **Senior DevOps / Back-End Specialist** for almost **4 years**. I enjoy coding, participating in **CTF** competitions, discovering vulnerabilities through **Bug Bounty**, and continuously expanding my knowledge.
+I'm a **Cyber Security Specialist** and **Certified Ethical Hacker (CEH)** with almost **4 years** of experience. I enjoy participating in **CTF** competitions, discovering vulnerabilities through **Bug Bounty**, and continuously expanding my knowledge. Creativity is a key part of my work — I approach problems with both technical and innovative thinking.
 
-- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="20"/> **Position:** Senior Cyber Security / Back-End
-- ⏳ **Experience:** ~4 years in cybersecurity, system automation & server administration
-- 🛠️ **Coding & Exploits:** Bash scripting, exploit writing, API design & implementation
-- 🖥️ **Platforms:** Desktop, Mobile & Server app development from scratch
-- 🔌 **Physical Hacking:** ESP3866, ESP0938, WiFi Pineapple, Flipper Zero, OMG
+- <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="20"/> **Position:** Cyber Security Specialist | CEH
+- ⏳ **Experience:** ~4 years in cybersecurity & penetration testing
 - 🏆 **CTF & Bug Bounty:** Active participation — responsible disclosure
-- 🗄️ **Databases:** SQLite, MongoDB & other lightweight NoSQL systems
+- 🔌 **Physical Hacking:** ESP3866, ESP0938, WiFi Pineapple, Flipper Zero, OMG
+- 💣 **Exploits:** Exploit writing, bypass techniques & shell deployment
 
 <br clear="both"/>
 
@@ -61,13 +57,13 @@ I have been working in the **Cybersecurity** field as a **Senior DevOps / Back-E
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/> Languages
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/> Languages & Tools
 
 <a href="#">
   <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,bash,powershell,html,css&perline=9&theme=dark" alt="Languages"/>
 </a>
 
-### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"/> Tools & Platforms
+<br/><br/>
 
 <a href="#">
   <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,mongodb,sqlite,docker,vscode,vim&perline=9&theme=dark" alt="Tools"/>
@@ -86,7 +82,7 @@ I have been working in the **Cybersecurity** field as a **Senior DevOps / Back-E
   <img src="https://img.shields.io/badge/Hashcat-5C2D91?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hashcat"/>
 </p>
 
-> ⚠️ **Note:** All tools are used for **ethical security research**, authorized penetration testing, and defensive security improvement.
+> ⚠️ **All tools are used for ethical security research, authorized penetration testing, and defensive security improvement.**
 
 </div>
 
@@ -110,7 +106,6 @@ I have been working in the **Cybersecurity** field as a **Senior DevOps / Back-E
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
 <img width="85%" src="https://github-profile-trophy.vercel.app/?username=ekbermahmudow&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
@@ -126,41 +121,12 @@ I have been working in the **Cybersecurity** field as a **Senior DevOps / Back-E
 ║  🕵️  Penetration Testing & Vulnerability Assessment             ║
 ║  🌐  Web Application Security                                   ║
 ║  🐛  Bug Bounty & Traffic Analysis                               ║
-║  🚨  Fundamentals of Incident Response                           ║
-║  💣  Exploit Development / Bypass & Shell Runtime Deployment     ║
+║  🚨  Incident Response                                           ║
+║  💣  Exploit Development / Bypass & Shell Deployment             ║
 ║  🔧  Fixing System Vulnerabilities (Linux/Windows)               ║
 ║  ⚡  Custom Linux Kernel Development (ARM, x86, x64)             ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Current Activities
-
-<div align="center">
-
-Due to challenges finding a role aligned with my cybersecurity background, I also run my own services:
-
-**📱 Phone & Computer Repair** • **💻 Custom Software Development** • **📡 GSM Services**
-
-These fields help expand my practical skills and allow me to solve real-world technical issues.
-
-</div>
-
----
-
-## 🕶️ Additional Info
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| ⚡ | Custom Linux kernel development for ARM, x86 & x64 |
-| 📚 | Sharing knowledge on Cybersecurity & DevOps |
-| 🏆 | Experience in real and virtual CTF challenges |
-| 🛡️ | Continuous practice in penetration testing, back-end, enterprise DevOps, and bug bounty |
 
 </div>
 
@@ -190,7 +156,6 @@ These fields help expand my practical skills and allow me to solve real-world te
 
 <div align="center">
 
-<!-- Animated Discord Profile Card -->
 <a href="https://discord.com/users/713117536220348477">
   <img src="https://lanyard.cnrad.dev/api/713117536220348477?theme=dark&bg=0d1117&borderRadius=15px&animated=true&idleMessage=Hacking%20the%20planet...&hideDiscrim=true" alt="Discord Presence" width="450"/>
 </a>
@@ -213,7 +178,6 @@ These fields help expand my practical skills and allow me to solve real-world te
 
 <br/><br/>
 
-<!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00d4ff,50:0099ff,75:00d4ff,100:0d1117&height=150&section=footer&animation=twinkling"/>
 
 </div>
