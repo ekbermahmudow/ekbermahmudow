@@ -91,5 +91,5 @@ These fields help expand my practical skills and allow me to solve real-world te
 
 ## 🎮 Discord
 
-[![Discord](https://img.shields.io/badge/Discord-%40dawnprestige-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/713117536220348477)
+[![Discord](https://img.shields.io/badge/Discord-%40ekimmw-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/713117536220348477)
 
